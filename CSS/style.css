@@ -1,0 +1,14 @@
+.container {
+    height: 75%;
+}
+
+span {
+    font-family: "Dancing Script", cursive;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+p {
+    font-family: "Playfair Display", serif;
+    font-size: 26px;
+}
